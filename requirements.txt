@@ -1,0 +1,9 @@
+torch
+torchvision
+streamlit
+yfinance
+pandas
+numpy
+plotly
+scikit-learn
+gdown
